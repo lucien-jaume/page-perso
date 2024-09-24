@@ -1,52 +1,27 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Lucien Jaume",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology, currently a CNRS postdoc for the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>, and is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). `,
+      short: `Lucien Jaume is a political scientist and a philosopher working on political ideas 
+      from historical backward and philosophical culture. Currently a CNRS senior researcher emeritus,
+      at CEVIPOF, a laboratory of Sciences Po Paris.`,
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies, actuellement postdoc CNRS pour le <a
-          href="https://cordis.europa.eu/project/id/951393" target="_blank">projet
-          ERC Nanobubbles</a>. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/guillaume-levrier/"
-            target="_blank">Laboratoire Interdisciplinaire
-          Sciences
-          Innovations Sociétés (LISIS)</a>, est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF).`,
+      short: `Lucien Jaume est un chercheur en science politique (thèse doctorale sur le jacobinisme),
+      également philosophe de formation et directeur de recherche émérite au CNRS, section 40 du CNRS.
+      Il a publié une quinzaine de livres sur la Révolution française, le libéralisme, Hobbes, Tocqueville, l'Etat français et les religions  `,
       long: "",
     },
   },
   links: [
-    {
-      label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
-    },
+  
     {
       label: "google scholar",
       value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
+      url: "https://scholar.google.fr/citations?view_op=list_works&hl=fr&user=igW21v4AAAAJ",
     },
-    {
-      label: "pubpeer",
-      value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
-    },
-    {
-      label: "linked in",
-      value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
-    },
+   
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
+  email: { name: "lucien.jaume", domain: "sciencespo.fr" },
 };
